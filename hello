@@ -1,4 +1,8 @@
+Repeat the steps (i.e add,status,commit,status,push,pull)
+
 git clone <url>
+
+cd /path
 
 git status ----- to check it don't show any error ass we on't do any change
 
@@ -19,3 +23,5 @@ git commit -m "des"-----it will be successful---------------tis is local repo
 git push----------this is to remote repo--it will ask for github login-if it is successful file will be there in remote repo
 
 If someone else is having our repo unless we don't give access they can't push it to remote repo but they can download it to local repo
+
+then git pull  --if smthg is changed it will dowwnload or esle up-to date msg
