@@ -1,0 +1,15 @@
+branching:
+
+git branch --list
+
+git branch <name>-----to create branch
+
+git branch --list ----list branch
+
+git checkout <br name> ------move to branch
+
+same procedure to create file ,add,commit 
+
+All file in master is visible in new branch but file in branch r not visible in main
+
+git push origin <br name>---------------to push the change to remote 
